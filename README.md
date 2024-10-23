@@ -1,0 +1,1 @@
+I'm just learning Python, I don't know what I'm doing. I needed an easy way to have access to _my_ .exe-s at work, as you can't send them via gmail. My code is not professional, most of it isn't even mine (Chat GPT). If you want to use it, feel free.
